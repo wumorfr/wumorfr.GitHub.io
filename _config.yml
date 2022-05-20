@@ -70,14 +70,14 @@ footer-text: Copyright (c) 2019 wumorfr
 disqus: # fromendworld
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
-# gitalk:
-#   clientID: bd65d5c0df878155b7fa
-#   clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
-#   repo: lemonchann.github.io
-#   owner: lemonchann
+gitalk:
+  clientID: cebd6b54e9b11125c2f3
+  clientSecret: 1f3b63f3d43bf8ac4db69908dcdfb005293b8144
+  repo: wumorfr.github.io
+  owner: wumorfr
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-#google_analytics: 
+google_analytics: G-BC01SBGCP1
 
 
 # 如果你在GitHub页面上的项目库中托管你的站点
