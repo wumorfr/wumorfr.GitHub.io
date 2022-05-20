@@ -2,12 +2,10 @@
 layout: post
 title: K近邻算法
 date: 2022-05-20
-Author: 乌墨_rfr
-categories: 
 tags: [machine-learning, Feature-Space]
-
 comments: true
-
+author: 乌墨_rfr
+---
 
 
 
