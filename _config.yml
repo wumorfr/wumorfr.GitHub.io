@@ -1,24 +1,27 @@
 #
-# This file contains configuration flags to customize your site
+# 这个文档包含了本博客的设定信息，你可以编辑它来个性化自己的博客，
 #
 
-# Name of your site (displayed in the header)
+# # 描述/签名
 name: "乌墨的博客"
-# Short bio or description (displayed in the header)
 description: "个人/学生/本科/在校"
 
 #
-# Flags below are optional
+# 下面的设定都是可选的
 #
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
+# 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
+url: https://wumorfr.github.io
+
+# 头像或头像的URL(你可以使用你的GitHub头像)
 avatar: https://github.com/lemonchann/images/raw/master/gzh/%E6%96%87%E6%9C%AB%E6%8E%A8%E5%B9%BF%E6%96%87%E6%A1%88.png
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/favicon.ico
 
-# Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
-# and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
-# it from the list(Delete '- name: ' and 'url: ', too!)
+# 菜单中的按钮
+# 标签页头。有“博客”，“关于”，“档案”，“标签”
+# 和URL链接(例如:“主题”标签下面)标签。如果你不需要，就删除
+# 它从列表(删除'- name: '和'url: '，太!)
 navigation:
   - name: 首页
     url: /
@@ -29,12 +32,13 @@ navigation:
   - name: 标签
     url: /tags
 
-# Pagination
+# 每页的文章数
 paginate: 8
 
+# 文章简介的区分标记
 excerpt_separator: <!-- more -->
 
-# Includes an icon in the footer for each username you enter
+# 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links:
   #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://blog.csdn.net/weixin_45856170<username>
@@ -54,14 +58,18 @@ footer-links:
   #twitter: frommidworld
   youtube:
 
-# Text under the icons in footer
+# 站点页脚的文字
 footer-text: Copyright (c) 2019 wumorfr
 
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
+#
+# 评论，注意，请不要同时添加多种不同的评论区
+#
+
+# 输入您的Disqus短名称(不是您的用户名)，以允许对文章进行评论
+# 你可以在Disqus账户的设置页面找到你的短名字
 disqus: # fromendworld
 
-# Gitalk
+# 输入Gitalk相关设定，即可添加评论区，具体请看教程
 # gitalk:
 #   clientID: bd65d5c0df878155b7fa
 #   clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
@@ -71,18 +79,16 @@ disqus: # fromendworld
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
 
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
-url: https://wumorfr.github.io
 
-# If you're hosting your site at a Project repository on GitHub pages
+# 如果你在GitHub页面上的项目库中托管你的站点
 # (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
+# 而不是你的用户库(http://yourusername.github.io)
+# 然后在baseurl中添加，像这样:"/repository-name"
 # baseurl: 
 
 #
 # !! You don't need to change any of the configuration flags below !!
+# !! 以下所有设置都不需要更改 !!
 #
 
 permalink: /:title/
