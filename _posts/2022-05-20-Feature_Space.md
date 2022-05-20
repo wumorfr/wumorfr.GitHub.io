@@ -2,7 +2,7 @@
 layout: post
 title: K近邻算法
 date: 2022-05-20
-tags: [machine-learning, Feature-Space]
+tags: [机器学习, K-近邻算法]
 comments: true
 toc: true
 author: 乌墨_rfr
