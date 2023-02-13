@@ -9,7 +9,7 @@ author: 乌墨_rfr
 ---
 
 
-
+# [Datawhale]\[CS224W]图神经网络（一）
 Datawhale开源学习社区 x 同济子豪兄 Stanford课程中文精讲系列笔记
 
 
