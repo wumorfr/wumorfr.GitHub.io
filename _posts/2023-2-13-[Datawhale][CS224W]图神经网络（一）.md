@@ -1,15 +1,14 @@
 ---
 layout: post
-title: [Datawhale][CS224W]图神经网络（一）
+title: 【Datawhale】【CS224W】图神经网络（一）
 date: 2023-02-13
-tags: [Datawhale,CS224W,图神经网络]
+tags: [CS224W,图神经网络,Datawhale]
 comments: true
 toc: true
 author: 乌墨_rfr
 ---
 
 
-# [Datawhale]\[CS224W]图神经网络（一）
 Datawhale开源学习社区 x 同济子豪兄 Stanford课程中文精讲系列笔记
 
 
