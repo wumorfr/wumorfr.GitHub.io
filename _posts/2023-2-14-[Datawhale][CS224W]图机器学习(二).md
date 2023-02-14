@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【Datawhalw】【CS224W】图神经网络（二）
-date: 2022-06-19
+date: 2023-02-14
 tags: [Datawhale,CS224W,图神经网络]
 comments: true
 toc: true
