@@ -1,12 +1,13 @@
 ---
 layout: post
-title: 【Datawhale】【CS224W】图神经网络（一）
+title: [Datawhale][CS224W]图神经网络（一）
 date: 2023-02-13
-tags: [CS224W,图神经网络,Datawhale]
+tags: [Datawhale,CS224W,图神经网络]
 comments: true
 toc: true
 author: 乌墨_rfr
 ---
+
 
 
 Datawhale开源学习社区 x 同济子豪兄 Stanford课程中文精讲系列笔记
@@ -54,3 +55,7 @@ Datawhale开源学习社区 x 同济子豪兄 Stanford课程中文精讲系列�
 [1] 图神经网络——基础、前言与应用
 
 [2] [斯坦福CS224W图机器学习、图神经网络、知识图谱【同济子豪兄】]([斯坦福CS224W图机器学习、图神经网络、知识图谱[同济子豪兄]]https://www.bilibili.com/video/BV1pR4y1S7GA?vd_source=872fc2755b4c0ffb1be2bc7240a69fed)
+
+https://wumorfr.github.io/Datawhale-CS224W-%E5%9B%BE%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C-%E4%B8%80/
+
+https://blog.csdn.net/weixin_45856170/article/details/129015780
