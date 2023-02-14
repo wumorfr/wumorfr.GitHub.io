@@ -399,4 +399,4 @@ Datawhale开源学习社区 x 同济子豪兄 Stanford课程中文精讲系列�
 
 [2] [图机器学习(一)--图数据挖掘传统方法](https://zhuanlan.zhihu.com/p/549155570)
 
-[3] [斯坦福CS224W图机器学习、图神经网络、知识图谱【同济子豪兄】]([斯坦福CS224W图机器学习、图神经网络、知识图谱[同济子豪兄]]https://www.bilibili.com/video/BV1pR4y1S7GA?vd_source=872fc2755b4c0ffb1be2bc7240a69fed)
+[3] [斯坦福CS224W图机器学习、图神经网络、知识图谱[同济子豪兄](https://www.bilibili.com/video/BV1pR4y1S7GA?vd_source=872fc2755b4c0ffb1be2bc7240a69fed)
