@@ -1,4 +1,12 @@
-# [Datawhale]\[CS224W]图机器学习(三)
+---
+layout: post
+title: 【Datawhalw】【CS224W】图神经网络（三）
+date: 2023-02-15
+tags: [Datawhale,CS224W,图神经网络]
+comments: true
+toc: true
+author: 乌墨_rfr
+---
 
 Datawhale开源学习社区 x 同济子豪兄 Stanford课程中文精讲系列笔记
 
